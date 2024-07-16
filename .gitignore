@@ -1,0 +1,14 @@
+.vs/
+MyRenderer/
+packages/
+
+# 编译输出文件
+bin/
+[Bb]uild/
+[Ll]og/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+
+packages.config
